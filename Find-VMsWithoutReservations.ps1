@@ -87,8 +87,7 @@ foreach ($sub in $subscriptions) {
 
     $vms = Get-AzVM -Status -ErrorAction SilentlyContinue
     foreach ($vm in $vms) {
-        $powerState = ($vm.Statuses | Where-Object { $_.Code -like "PowerState/*" }).Code
-        if ($powerState -eq "PowerState/running") {
+        if ($vm.PowerState -eq "VM running") {
             $allVMs += [PSCustomObject]@{
                 SubscriptionName = $sub.Name
                 SubscriptionId   = $sub.Id
