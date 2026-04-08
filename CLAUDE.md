@@ -15,6 +15,10 @@ Do not skip this step. Do not summarize or skim. Read both files in full so you 
 
 The `\resume` folder in this repo contains Rocco's current resume and his Microsoft Certification Transcript. When any task requires resume content, certification details, or professional history, read the relevant files from that folder rather than relying on memory or the personal wiki alone.
 
+## Job Evaluation
+
+When Rocco shares a job description or asks whether a role is a good fit, read `job-evaluation-framework.md` and follow the evaluation structure defined there. This also applies to related tasks like resume positioning, cover letters, interview follow-ups, and job description analysis.
+
 ## Purpose
 
 This repo exists as a private, local-first space for work that doesn't belong in web-based AI chat interfaces (claude.ai, ChatGPT, Gemini, etc.). It gives Rocco full control over his conversation history, files, and outputs without relying on third-party account storage.
