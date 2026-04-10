@@ -13,7 +13,15 @@ Do not skip this step. Do not summarize or skim. Read both files in full so you 
 
 ## Reference Files
 
-The `\resume` folder in this repo contains Rocco's current resume and his Microsoft Certification Transcript. When any task requires resume content, certification details, or professional history, read the relevant files from that folder rather than relying on memory or the personal wiki alone.
+The `\resume` folder in this repo contains Rocco's current resumes and his Microsoft Certification Transcript. When any task requires resume content, certification details, or professional history, read the relevant files from that folder rather than relying on memory or the personal wiki alone.
+
+Always read the PDF versions of the resumes directly. Do not read or parse the `.docx` files and do not write Python scripts to extract their contents. The PDFs are the source of truth for reading:
+
+- `RCuffari_Enterprise_AI_Architect_Resume_Q2-26.pdf`
+- `RCuffari_Principal_Cloud_AI_Architect_Resume_Q2-26.pdf`
+- `Transcript - roccocuffari-4424 _ Microsoft Learn_Q1-2026.pdf`
+
+The `.docx` files remain in the folder as the editable source for future resume updates, but they should not be used as a reading target.
 
 ## Job Evaluation
 
