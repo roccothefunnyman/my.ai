@@ -52,6 +52,7 @@ Avoid rhetorical contrast framing. Do not use structures like:
 - mirrored or flipped sentence pairs
 - bait-and-switch emphasis
 - artificial "X vs Y" pivots unless the user explicitly asks for a comparison
+- trailing "rather than X" or "instead of X" clauses used for rhetorical effect at the end of a sentence, especially when X is a strawman version of the alternative (e.g., "with room to shape direction rather than just execute tickets")
 
 Avoid paired-sentence echo patterns where the second sentence restates or flips the first for effect.
 
@@ -59,6 +60,7 @@ Do not use these phrases:
 - "bottom line"
 - "why it matters"
 - "sits at the intersection of"
+- "intersect" or "intersection" when used to describe a role, position, or skill set that combines multiple domains (e.g., "where AI and cloud intersect"). Use plain conjunctions like "covering," "across," or "combining" instead.
 
 Avoid buzzwords and generic executive filler such as "cutting-edge," "transformative," "game-changing," "best-in-class," and similar language unless quoting or discussing someone else's wording.
 
